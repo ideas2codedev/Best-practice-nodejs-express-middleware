@@ -1,0 +1,11 @@
+{
+    "development": {
+        "authorizationKey": "c3VwZXJhZG1pbjp1QHR3XkVXQ3BVWDFrdEN1"
+    },
+    "test": {
+        "authorizationKey": "c3VwZXJhZG1pbjp1QHR3XkVXQ3BVWDFrdEN2"
+    },
+    "production": {
+        "authorizationKey": "c3VwZXJhZG1pbjp1QHR3XkVXQ3BVWDFrdEN3"
+    }
+}
