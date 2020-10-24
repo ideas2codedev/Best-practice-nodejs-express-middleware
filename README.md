@@ -31,3 +31,13 @@ npm start
 ```
 ## Key code
 ![image](https://user-images.githubusercontent.com/9513390/97065380-16e8bc00-156a-11eb-8aec-00c52f821923.png)
+
+## Resources & Credits
+
+**NodeJS**
+
+[https://nodejs.org](http://adf.ly/23757721/nodejs.org)
+
+**Express**
+
+[https://expressjs.com/](http://adf.ly/23757721/expressjs.com)
