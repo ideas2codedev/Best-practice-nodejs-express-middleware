@@ -1,8 +1,7 @@
 
 # A best practice for using express and middleware
 
-![image](https://user-images.githubusercontent.com/9513390/97065067-09cacd80-1568-11eb-8148-bf61e065d0ff.png)
-
+![image](https://user-images.githubusercontent.com/9513390/97084189-94481700-15d2-11eb-8353-66618dafc525.png)
 
 As developer always create a new projects or take a created project, and the first thing we see is the other programer has other methos or use other techicas to develop. This repository is a simple project where can find a how you can use middleware friendly way form. Let's code!
 
